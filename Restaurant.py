@@ -51,3 +51,5 @@ while nextorder == True:
         print(myorderprice)
 
 #order2 = input("Can I take your order miss? Yes/No")
+
+print("Heres your receipt")
