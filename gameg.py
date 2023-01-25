@@ -1,3 +1,5 @@
+#This script allows you to guess the correct number picked by the application
+
 import random
 
 def guess(x):
